@@ -1,4 +1,4 @@
-# Book API with Django
+# Projects API with Django
 
 # Steps to set up your Django Project
 
